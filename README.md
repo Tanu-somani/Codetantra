@@ -15,7 +15,7 @@ Follow these steps to get started:
     * Open your terminal or command prompt in the project directory.
     * Run the following command to import the necessary library:
         ```bash
-        import pyautogui
+        pip install pyautogui
         ```
     * *Note: Ensure the import is successful before proceeding.*
 
